@@ -1,6 +1,7 @@
 # Game Of Life PHP
 
 This is a simple implementation of Conway's Game of Life in PHP.
+This took about 15 minutes to make. Might be buggy?
 
 ## Installation
 
